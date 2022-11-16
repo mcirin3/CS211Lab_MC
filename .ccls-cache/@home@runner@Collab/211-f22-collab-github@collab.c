@@ -17,14 +17,11 @@
 #include <stdio.h>
 
 void reed_ekidan2() {
-  
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void mcirin3_mcorte34() {
-  printf("\n");
-  printf("\n");
+void mcirin3_mcorte34() { 
   printf("Two things that we learned with using and git and github was that git is for local \n"); 
   printf("version control and github is for cloud collaborative version control. This means that the \n"); 
   printf("multiple people can be working on the same document at the same time! \n");  
@@ -35,7 +32,6 @@ int main()
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    mcirin3_mcorte34();
     
     return 0;
 }
